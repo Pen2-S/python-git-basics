@@ -14,10 +14,15 @@ Notes:
 # TODO 1:
 # Print "Hello, Python!" to the terminal
 
+print("Hello, Python!")
 
 # TODO 2:
 # Print the result of 2 + 2
 
+x = 6 / 3
+print ("x = ", x)
 
 # TODO 3 (optional):
 # Print your name
+
+print("Pen2")
